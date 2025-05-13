@@ -1,0 +1,2712 @@
+Tiles: {
+	CoriteOreTile.MapEntry: Corite Ore
+	MagtaneOreTile.MapEntry: Magtane Ore Tile
+	KanumOreTile.MapEntry: Kanum Ore Tile
+}
+
+Items: {
+	CoriteOre: {
+		DisplayName: Corite Ore
+		Tooltip: ""
+	}
+
+	CoriteBar: {
+		Tooltip: ""
+		DisplayName: Corite Bar
+	}
+
+	CoriteChestplate: {
+		DisplayName: Corite Chestplate
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 10%
+			-----
+			Other
+			Max life increased by 5
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CoriteHelmet: {
+		DisplayName: Corite Helmet
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 8%
+			-----
+			Other
+			Reduced damage taken by 4%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CoriteLeggings: {
+		DisplayName: Corite Leggings
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CoriteBlaster: {
+		DisplayName: Corite Blaster
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Loads Bullets
+			Fast reload time
+			Reload rate: 1
+			Max load: 8
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	MagtaneBar: {
+		DisplayName: Magtane Bar
+		Tooltip: ""
+	}
+
+	MagtaneOre: {
+		DisplayName: Magtane Ore
+		Tooltip: ""
+	}
+
+	MagnetMinionItem: {
+		DisplayName: Magnet Core Staff
+		Tooltip:
+			'''
+			summons a magnetic core to fight for you
+			-----
+			Secondary
+
+			guide minions with the cursor for 15 seconds
+			Uses 30 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	KanumOre: {
+		DisplayName: Kanum Ore
+		Tooltip: ""
+	}
+
+	KanumBar: {
+		DisplayName: Kanum Bar
+		Tooltip: ""
+	}
+
+	KanumShield: {
+		DisplayName: Kanum Shield
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased immunity duration by 25% 
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CorruptGauntlet: {
+		DisplayName: Corrupt Gauntlet
+		Tooltip:
+			'''
+			Double tap in any direction to preform a dash attack
+			Uses 60 energy
+			'''
+	}
+
+	MagtaneBoots: {
+		DisplayName: Magtane Boots
+		Tooltip:
+			'''
+			-----
+			Movement
+			Increased movement speed by 4%
+			-----
+			'''
+	}
+
+	MagtaneChestplate: {
+		DisplayName: Magtane Suit
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased attack speed by 5%
+			-----
+			'''
+	}
+
+	MagtaneHelmet: {
+		DisplayName: Magtane Headgear
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			Increased jump speed by 10%
+			-----
+			'''
+	}
+
+	MagtaneVisor: {
+		DisplayName: Magtane Visor
+		Tooltip:
+			'''
+			Slightly decreased reload time
+			Decreased movement speed by 6%
+			'''
+	}
+
+	KanumChainmail: {
+		DisplayName: Kanum Chainmail
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 8%
+			-----
+			Other
+			Increased critical strike chance by 4%
+			-----
+			'''
+	}
+
+	KanumGreaves: {
+		DisplayName: Kanum Greaves
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased critical strike damage by 5%
+			-----
+			'''
+	}
+
+	KanumHelmet: {
+		DisplayName: Kanum Great Helm
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased damage by 6%
+			-----
+			'''
+	}
+
+	ThornBlade: {
+		DisplayName: Thorn Blade
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Summons a damaging thorn barrier around the user
+			Barrier has a 25% chance to inflict [c/22dd32:poison]
+			Uses 28 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	FancyBow: {
+		DisplayName: Flinx Bow
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Hurls a ball of fur
+			Uses 18 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	IceChestplate: {
+		DisplayName: Ice Platemail
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 9%
+			-----
+			Other
+			When above half life, falling speed increased
+			When below half life, acceleration increased by 7%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	IceGreaves: {
+		DisplayName: Ice Greaves
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			When above half life, reduced damage taken by 6%
+			When below half life, movement speed increased by 7%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	IceMask: {
+		DisplayName: Ice Mask
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			When above half life, defense increased by 1
+			When below half life, attack speed increased by 6%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	MagtaneRepeater: {
+		DisplayName: Magtane Repeater
+		Tooltip:
+			'''
+			-----
+			Repeater stats
+			max shots: 9
+			cooldown rate: 0.5
+			overheat time: 6 seconds
+			-----
+			Secondary
+
+			Release all heat in an explosion around the player
+			Uses 35 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	FluffyGlove: {
+		Tooltip:
+			'''
+			Increased size of melee weapons
+			Decreased melee speed by 10%
+			'''
+		DisplayName: Fluffy Glove
+	}
+
+	SolarFury: {
+		DisplayName: Solar Fury
+		Tooltip: ""
+	}
+
+	ForestBoots: {
+		DisplayName: Forest Boots
+		Tooltip:
+			'''
+			-----
+			Increased attack speed by 6%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	ForestChestplate: {
+		DisplayName: Forest Tunic
+		Tooltip:
+			'''
+			-----
+			Movement
+			Decreased movement speed by 4%
+			Increased acceleration by 7%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	ForestHood: {
+		DisplayName: Forest Hood
+		Tooltip:
+			'''
+			-----
+			Movement 
+			Decreased movement speed by 2%
+			Max movement speed increased by 6%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	MagicCards: {
+		Tooltip: ""
+		DisplayName: Magic Cards
+	}
+
+	Typhoon: {
+		DisplayName: Typhoon
+		Tooltip: ""
+	}
+
+	SharkGun: {
+		DisplayName: Shark Gun
+		Tooltip: ""
+	}
+
+	Fulgur: {
+		DisplayName: Vortex Bow
+		Tooltip: ""
+	}
+
+	BloodHelmet: {
+		DisplayName: Blood Helmet
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 8%
+			-----
+			Other
+			Increased armor penetration by 1
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CoriteYoyo: {
+		DisplayName: Corite Yoyo
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			A sawblade will follow the yoyo for 5 seconds
+			Uses 20 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	BloodChestplate: {
+		DisplayName: Blood Chestplate
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 10%
+			-----
+			Other
+			Critical damage increased by 7%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	IceWand: {
+		DisplayName: Ice Wand
+		Tooltip:
+			'''
+			fires a snowflake that splits into pieces
+			-----
+			Secondary
+
+			unleashes a high knockback snow wall
+			Uses 22 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Drop
+			Drop Condition: Blizzard
+			'''
+	}
+
+	PoisonBook: {
+		DisplayName: Poison Book
+		Tooltip:
+			'''
+			Launches poisonous sludge balls
+			-----
+			Secondary
+
+			Fire a venomous slude ball
+			Uses 4 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	DemonitePowder: {
+		DisplayName: Demonite Powder
+		Tooltip: ""
+	}
+
+	AncientScimitar: {
+		DisplayName: Ancient Scimitar
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Manifest the eye of a damaging sandstorm
+			Uses 65 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Drop
+			Drop Condition: Sandstorm
+			'''
+	}
+
+	DemonicScimitar: {
+		DisplayName: Demonic Scimitar
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Manifest the eye of a damaging sandstorm
+			Staying in the sandstorm grants a movement speed boost
+			Uses 65 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Craft
+			'''
+	}
+
+	HematicScimitar: {
+		DisplayName: Hematic Scimitar
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Manifest the eye of a damaging sandstorm
+			Staying in the sandstorm grants increased life regeneration
+			Uses 65 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Craft
+			'''
+	}
+
+	RainSpear: {
+		Tooltip:
+			'''
+			A spear created from precipitation
+			-----
+			Secondary
+
+			Throw the spear, periodicaly dropping raindrops along its path
+			Uses 12 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Drop
+			Drop Condition: Rainy
+			'''
+		DisplayName: Rain Spear
+	}
+
+	BambooGun: {
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Loads Darts
+			Very Fast reload time
+			Reload rate: 1
+			Max load: 3
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Handcrafted rifle
+	}
+
+	OceanWhip: {
+		Tooltip:
+			'''
+			4 summon tag damage
+			-----
+			Secondary
+
+			Hurl a damaging whirlpool
+			Uses 28 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Whirlpool
+	}
+
+	PowerSpear: {
+		DisplayName: Power Spear
+		Tooltip:
+			'''
+			Releases energy waves out of the spears tip
+			Uses 2 energy
+			-----
+			Secondary
+
+			Preform a short range stab that siphons the energy of the target
+			Uses 10 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	PureChlorophite: {
+		DisplayName: Pure Chlorophite
+		Tooltip: ""
+	}
+
+	SlimeMace: {
+		DisplayName: Slime and Chain
+		Tooltip:
+			'''
+			Slime balls will periodicaly fly off of the mace
+			-----
+			Secondary
+
+			For 8 seconds, launch a large slime ball when throwing out the mace
+			Uses 25 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Drop
+			'''
+	}
+
+	FrozenBoomerang: {
+		DisplayName: Frozen Boomerang
+		Tooltip:
+			'''
+			A boomerang completely incased in ice
+			-----
+			Secondary
+
+			Remotely shatter the ice on the boomeerang, increasing it's speed
+			Uses 10 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	BloodSickle: {
+		DisplayName: Blood Scythe
+		Tooltip:
+			'''
+			Attacks to spin: 1
+			-----
+			Secondary
+
+			Scythe life steals for 10 seconds
+			Uses 45 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	KanumSickle: {
+		DisplayName: Kanum Sickle
+		Tooltip:
+			'''
+			Attacks to spin: 1
+			-----
+			Secondary
+
+			Quickly preform a higher knockback multispin attack
+			Uses 23 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	MagtaneJoustingLance: {
+		DisplayName: Magtane Jousting Lance
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Movement speed is doubled for 3 seconds
+			Uses 30 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ThornMace: {
+		DisplayName: Thorn Mace
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Throw a thorn ball that splits into pieces
+			Uses 15 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ShimmerBow: {
+		DisplayName: Shimmer Bow
+		Tooltip:
+			'''
+			Fires a shimmer arrow at a reversed arc along with the used arrow
+			-----
+			Secondary
+
+			Focus for 7 seconds
+			When focused, arc is smaller and critical strike chance is increased by 3%
+			Uses 15 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Shimmer Transmution
+			'''
+	}
+
+	RustyBow: {
+		DisplayName: Rusty Bow
+		Tooltip: Why is it so expensive to buy? ... It might not just be junk.
+	}
+
+	SubZero: {
+		DisplayName: Sub Zero
+		Tooltip:
+			'''
+			All effects are only applied when ultimate is activated
+			-----
+			[c/110094:Ult][c/2c19bd:ima][c/321aea:te]
+			Melee and ranged weapons inflict frostburn
+			Using a secondary that uses 10 or more energy releases ice shards around the player
+			Increased critical strike chance by 15%
+			Damage taken reduced by 10%
+
+			Charge time: 180
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Craft
+			'''
+	}
+
+	HeatWave: {
+		DisplayName: Heat Wave
+		Tooltip:
+			'''
+			All effects are only applied when ultimate is activated
+			-----
+			[c/110094:Ult][c/2c19bd:ima][c/321aea:te]
+			Magic and Summon attacks set enemies on fire
+			Running out of mana releases a heat wave that covers the screen
+			Increased damage by 20%
+			Increased movement speed by 15%
+
+			Charge time: 180
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Craft
+			'''
+	}
+
+	FrostRod: {
+		DisplayName: Frost Rod
+		Tooltip:
+			'''
+			first hit inflicts frostburn
+			-----
+			Secondary
+
+			shards released return to the center for 10 seconds
+			Uses 55 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Craft
+			'''
+	}
+
+	ManaGauntlet: {
+		DisplayName: Mana Gauntlet
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 3%
+			-----
+			Other
+			increased mana regeneration rate by 1
+			increased melee damage by 10%
+			decreased melee attack speed by 8%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CursedTotem: {
+		Tooltip:
+			'''
+			-----
+			increases your max number of minions by 1
+			decreased minion damage by 25%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Cursed Totem
+	}
+
+	AncientChestplate: {
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			double tap left or right to preform a dash
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Ancient Lightwear
+	}
+
+	LeafWhip: {
+		Tooltip:
+			'''
+			5 summon tag damage
+			-----
+			Secondary
+
+			Summon a sanctuary that increases the whips range
+			Uses 35 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+		DisplayName: Leaf Whip
+	}
+
+	RageRepeater: {
+		DisplayName: Rage Repeater
+		Tooltip:
+			'''
+			overheating gives the user rage
+			-----
+			Repeater stats
+			max shots: 12
+			cooldown rate: 0.75
+			overheat time: 9 seconds
+			-----
+			Secondary
+
+			Fire rage bolts when overheated
+			Uses 5 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	AquaBook: {
+		DisplayName: Aqua Ring
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			empower aqua rings for 7 seconds
+			Uses 35 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	MoltenShotbow: {
+		DisplayName: Molten Shotbow
+		Tooltip:
+			'''
+			fires two arrows
+			-----
+			Repeater stats
+			max shots: 7
+			cooldown rate: 0.5
+			overheat time: 5 seconds
+			-----
+			Secondary
+
+			Fire molten slag when overheated
+			Uses 2 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	MoltenString: {
+		DisplayName: Molten String
+		Tooltip:
+			'''
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	CoolingPack: {
+		DisplayName: Cooling Pack
+		Tooltip:
+			'''
+			heat cooldown rate increased by 20%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	Blunderbuss: {
+		DisplayName: Blunderbuss
+		Tooltip:
+			'''
+			Occasionaly fire a blast with twice the amount of bullets as normal
+			Only occurs when at full ammunition
+			Uses 20 energy
+			-----
+			Secondary
+
+			Loads Bullets
+			Very slow reload time
+			Reload rate: 6
+			Max load: 12
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	MoltenGuitar: {
+		DisplayName: Molten Guitar
+		Tooltip:
+			'''
+			has two different firing modes
+			-----
+			Secondary
+
+			swap firing mode and give the user exhilaration for 6 seconds
+			Uses 10 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	ModifiedSlimeGun: {
+		DisplayName: Slimeball Launcher
+		Tooltip:
+			'''
+			Fire bouncy slime balls that deal more damage after bouncing
+			-----
+			Secondary
+
+			Fire bigger slime balls at a rapid rate
+			Uses 4 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	Sparkler: {
+		DisplayName: Sparkler
+		Tooltip:
+			'''
+			Has a 10% chance to set the target on fire
+			-----
+			Secondary
+
+			Light the sparkler on fire for 6 seconds
+			Uses 35 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	DarkGlaive: {
+		DisplayName: Dark Glaive
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Preform a wide range slash
+			Uses 19 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	QueenSlimeGun: {
+		Tooltip:
+			'''
+			Fire 3 different types of slime balls with different effects
+			[c/6f29b5:Purple]: Bouncing grows damage by 10% more
+			[c/005891:Navy]: Deals 10% more critical damage
+			[c/c70b9d:Pink]: Can penetrate through one more target
+			-----
+			Secondary
+
+			Fire bigger slime balls at a rapid rate
+			Uses 3 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+		DisplayName: Royal Slimeball Launcher
+	}
+
+	DesertTrinket: {
+		DisplayName: Golden Trinket
+		Tooltip:
+			'''
+			-----
+			Max movement speed increased by 18%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	IceTrinket: {
+		DisplayName: Platinum Trinket
+		Tooltip:
+			'''
+			-----
+			Increased critical damage by 12%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	OceanTrinket: {
+		DisplayName: Seashell Trinket
+		Tooltip:
+			'''
+			-----
+			Damage taken reduced by 8%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	JungleTrinket: {
+		DisplayName: Wooden Trinket
+		Tooltip:
+			'''
+			-----
+			Grappling hook pull speed increased by 12%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	SwiftBoots: {
+		DisplayName: Swift Boots
+		Tooltip:
+			'''
+			-----
+			Increased running acceleration by 10%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	VerySwiftBoots: {
+		DisplayName: Gold Wind Treads
+		Tooltip:
+			'''
+			-----
+			Increased running acceleration by 10%
+			Max movement speed increased by 18%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	AttachableChain: {
+		DisplayName: Attachable Chain
+		Tooltip: ""
+	}
+
+	ShellShield: {
+		DisplayName: Shell Shield
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased immunity duration by 25% 
+			Damage taken reduced by 8%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	SharpeningBlock: {
+		DisplayName: Sharpening Block
+		Tooltip:
+			'''
+			-----
+			Increased melee armor penetration by 3
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	FerrotitaniumBar: {
+		DisplayName: Ferrotitanium Bar
+		Tooltip: A light yet durable alloy
+	}
+
+	MythrilHelm: {
+		DisplayName: Stargazer Helm
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Reduced mana usage by 10%
+			Increased maximum mana by 40
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	MythrilChest: {
+		DisplayName: Stargazer Chest
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 10%
+			-----
+			Other
+			Increased mana regeneration by 2
+			Increased magic critical strike chance by 5%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	MythrilBoots: {
+		DisplayName: Stargazer Boots
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased magic damage by 14%
+			Increased magic critical strike chance by 7%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	PoisonKnives: {
+		Tooltip:
+			'''
+			Has a 33% chance to inflict [c/22dd32:poison]
+			-----
+			Secondary
+
+			Grab knives
+			Average reload time
+			Reload rate: 3
+			Max load: 9
+			--
+			Going past the max load makes your next attack throw all knives around the user
+			Uses 20 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+		DisplayName: Poison Knives
+	}
+
+	DesertLamp: {
+		DisplayName: Desert Lamp
+		Tooltip:
+			'''
+			-----
+			Using a secondary releases damaging magic orb that spins around the player
+			Damage of orb is based off of energy used
+			Minimum damage is 4
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	WindCharge: {
+		DisplayName: Wind Charge
+		Tooltip:
+			'''
+			-----
+			Taking 20% or more of the users health releases a high knockback burst
+			Minimum damage requirment is 20 damage
+			Damage of burst increases the lower the users health
+			Uses 12 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	FrostChain: {
+		DisplayName: Frost Chain
+		Tooltip:
+			'''
+			-----
+			Whips have a 16% chance to inflict frostburn
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	SpacedustGun: {
+		DisplayName: Spacial Ray
+		Tooltip:
+			'''
+			Fires a spread of stardust
+			-----
+			Secondary
+
+			Fire a magic star that when collected gives the player 40 mana
+			Uses 6 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	AngelStaff: {
+		DisplayName: Angel Staff
+		Tooltip:
+			'''
+			Fires 3 holy rays
+			-----
+			Secondary
+
+			Summon a halo above the player that breaks after 15 seconds
+			When halo breaks, the user heals 80 health
+			Uses 60 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	IronskinMiniPot: {
+		DisplayName: Ferricskin potion
+		Tooltip: Increases defense by 3
+	}
+
+	SwiftnessMiniPot: {
+		DisplayName: Haste potion
+		Tooltip:
+			'''
+			15% increased movement speed
+
+			'''
+	}
+
+	DemonMask: {
+		DisplayName: Demon Mask
+		Tooltip:
+			'''
+			-----
+			Movement
+			Decreased movement speed by 3%
+			-----
+			Other
+			Increased damage by 15% when at or below half life
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CoriteCannon: {
+		DisplayName: Corite Cannon
+		Tooltip:
+			'''
+			Fire a energy bomb that explodes twice
+			-----
+			Secondary
+
+
+			Charge cannon
+			Very slow reload time
+			Reload rate: 1
+			Max load: 2
+			__
+			Load past the max to fire a massive charge
+			Uses 70 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	NatureBow: {
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Grow a tree banch next to the user
+			Uses 25 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+		DisplayName: Vine Bow
+	}
+
+	CrescentSickle: {
+		Tooltip:
+			'''
+			Unleash moon blades after slashing
+			-----
+			Secondary
+
+			Unleash moon blades while spinning the blade
+			Uses 32 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Crescent Moon
+	}
+
+	LeafMinionItem: {
+		DisplayName: Leaf Cane
+		Tooltip:
+			'''
+			summons a sentient leaf to fight for you
+			-----
+			Secondary
+
+			leafs gain 4 armor penetration for 14 seconds
+			Uses 38 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	LargeSpring: {
+		DisplayName: Large Spring
+		Tooltip:
+			'''
+			-----
+			Increased jump speed by 15%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Chest
+			'''
+	}
+
+	BayShard: {
+		DisplayName: Bay Shard
+		Tooltip: ""
+	}
+
+	WaterSoul: {
+		DisplayName: Water Soul
+		Tooltip: ""
+	}
+
+	BayBlade: {
+		DisplayName: Bay Blade
+		Tooltip:
+			'''
+			Hitting a target with the blade empowers the next swing
+			Empowered swing releases a wave
+			-----
+			Secondary
+
+			For 9 seconds, hitting targets with waves re-empowers the the blade
+			Uses 30 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	FrenzyGlove: {
+		DisplayName: Frenzy Glove
+		Tooltip:
+			'''
+			-----
+			Give the user frenzy for 1 second after landing a melee attack
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	BubbleYoyo: {
+		DisplayName: Yobble
+		Tooltip:
+			'''
+			Hitting a target spawns a bubble that increases in size with every following hit
+			When the bubble reaches it's max size, it pops
+			-----
+			Secondary
+
+			Bubble growth rate doubled for 7 seconds
+			Uses 48 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	TechBlade: {
+		Tooltip:
+			'''
+			Has four stages, each having different properties
+			After 15 seconds the blade will revert to its first stage
+			-----
+			Secondary
+
+			Upgrade the blade to the next stage
+			Resets the time to reverting back to 15 seconds
+			each stage requires double the amount of energy to upgrade as the last
+			Uses 10-40 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+		DisplayName: Tech Blade
+	}
+
+	PortalCannon: {
+		DisplayName: Portal Cannon
+		Tooltip:
+			'''
+			Summon a portal at the cursors position that drops a bomb
+			Charging the portal will drop higher damage bombs
+			-----
+			Secondary
+
+			Summon a portal that drops bombs occasionaly
+			Every second the portal uses energy
+			Uses 5 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	ObsidianEmblem: {
+		DisplayName: Obsidian Emblem
+		Tooltip:
+			'''
+			-----
+			Increased defense by 5 while holding a melee weapon
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ManaSyphon: {
+		DisplayName: Mana Syringe
+		Tooltip:
+			'''
+			-----
+			Gain 2 mana when landing a magic attack
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	NitroCapsule: {
+		DisplayName: Nitrogen Capsule
+		Tooltip:
+			'''
+			-----
+			Ranged weapons fire projectiles with 18% higher velocity
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	CrimtanePowder: {
+		DisplayName: Crimtane Powder
+		Tooltip: ""
+	}
+
+	FrenzyPotion: {
+		DisplayName: Frenzy Potion
+		Tooltip: Increased attack speed by 10%
+	}
+
+	ChaosBoomerang: {
+		DisplayName: Chaos Boomerang
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Teleport to the boomerang
+			Uses 36 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: drop
+			'''
+	}
+
+	BladeShotgun: {
+		DisplayName: Blade Shotgun
+		Tooltip:
+			'''
+			Fires 4 piercing blades
+			-----
+			Secondary
+
+
+			Load blades
+			Average reload time
+			Reload rate: 4
+			Max load: 8
+			--
+			Load past the max to fire long lasting blades
+			Uses 32 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	DungeonWhip: {
+		DisplayName: Bladed chain
+		Tooltip:
+			'''
+			7 summon tag damage
+			Can inflict critical strikes
+			-----
+			Secondary
+
+			Rapidly swing the whip with a base crit rate of 10%
+			Critical damage is multiplied by 1.5 times
+			Uses 4 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+	}
+
+	WindCannon: {
+		DisplayName: Wind Cannon
+		Tooltip:
+			'''
+			Fire a wind charge that slowly increases in speed
+			-----
+			Secondary
+
+
+			Charge cannon
+			Slow reload time
+			Reload rate: 1
+			Max load: 4
+			--
+			Load past the max to fire a whirlwind that pulls enemies into it
+			Uses 23 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Drop
+			Condition: Windy
+			'''
+	}
+
+	Chakram: {
+		DisplayName: Chakram
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Pull enemies towords you with the chakram
+			Uses 15 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Purchased
+			'''
+	}
+
+	IceStaff: {
+		DisplayName: Ice Staff
+		Tooltip:
+			'''
+			Manafests two ice shards
+			-----
+			Secondary
+
+			Create an ice barrier that gives the player 8 defense
+			Uses 44 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	PureTotem: {
+		DisplayName: Pure Totem
+		Tooltip:
+			'''
+			-----
+			Whip damage increased by 40%
+			Whip knockback increased by 20%
+			Whips no longer deal summon tag damage
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	CycloneSickle: {
+		DisplayName: Cyclone Sickle
+		Tooltip:
+			'''
+			Spin attacks pull enemies towords the user
+			-----
+			Secondary
+
+			Spin the sickle for an extended period of time
+			During the swing, the user's movement is heavily increased and damage taken is reduced by 33%
+			Uses 62 energy
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Drop
+			Condition: Windy
+			'''
+	}
+
+	HemoshroomHat: {
+		DisplayName: Hemoshroom Hat
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 2%
+			-----
+			Other
+			Increased life regeneration by 1
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HemoshroomChest: {
+		DisplayName: Hemoshroom Vest
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased minion damage by 10%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HemoshroomShoes: {
+		DisplayName: Hemoshroom Shoes
+		Tooltip:
+			'''
+			-----
+			Max life increased by 10
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ScaleFossilHelm: {
+		DisplayName: Shadow Fossil Helm
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased armor penetration by 2
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ScaleFossilPlate: {
+		DisplayName: Shadow Fossil Scalemail
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased armor penetration by 2
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ScaleFossilGreaves: {
+		DisplayName: Shadow Fossil Greaves
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 2%
+			-----
+			Other
+			Increased armor penetration by 2
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	DemonYoyo: {
+		Tooltip:
+			'''
+			Penetrates through 2 armor points
+			-----
+			Secondary
+
+			Yoyo leaves a trail of damaging energy clones behind it for 15 seconds
+			Uses 54 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+		DisplayName: Demon Yoyo
+	}
+
+	RainOfChains: {
+		DisplayName: Rain Of Chains
+		Tooltip: ""
+	}
+
+	SnatcherSentryItem: {
+		Tooltip:
+			'''
+			Summons a baby snatcher to fight for you
+			-----
+			Secondary
+
+			All baby snatcher's lunge towords the cursor, dealing tripple damage
+			Uses 17 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+		DisplayName: Snatcher Staff
+	}
+
+	SnatcherJaw: {
+		DisplayName: Snatcher Jaw
+		Tooltip: A jaw strong enough to chomp a man in half
+	}
+
+	OilBlade: {
+		Tooltip: ""
+		DisplayName: Oil Blade
+	}
+
+	BoostBoots: {
+		DisplayName: Boost Boots
+		Tooltip:
+			'''
+			Gotta go fast!
+			-----
+			Double tap left or right to boost in that direction
+			Continuing to move after the boost will drain 4 energy a second and increase the users speed by 70%
+			Uses 6 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	HoneyHelm: {
+		DisplayName: Honeycomb Helmet
+		Tooltip:
+			'''
+			-----
+			Movement
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased knockback by 9%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HoneyPlate: {
+		DisplayName: Honeycomb Plate
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 8%
+			-----
+			Other
+			Reduced damage taken by 6%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HoneyGreaves: {
+		DisplayName: Honeycomb Greaves
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 5%
+			-----
+			Other
+			Increased life regeneration by 1
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	BloodGreaves: {
+		DisplayName: Blood Greaves
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased critical strike chance by 5%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HoneyDisc: {
+		DisplayName: Honeycomb Discs
+		Tooltip:
+			'''
+			Throw up to two discs
+			-----
+			Secondary
+
+			Throw up to two sticky discs that cling onto enemies
+
+			Uses 17 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	HoneyLance: {
+		DisplayName: Hive Guards Lance
+		Tooltip:
+			'''
+			Increased life regeneration by 1 when mooving at high speeds
+			-----
+			Secondary
+
+			Preform a flying thrust towards the cursor
+			The player stops when reaching the cursor
+			Uses 44 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	SlimeLauncher: {
+		DisplayName: Slimenade Launcher
+		Tooltip:
+			'''
+			Launch a bouncy grenade that latches onto targets
+			-----
+			Secondary
+
+
+			Load grenades
+			Slow reload time
+			Reload rate: 1
+			Max load: 3
+			--
+			Load past the max to launch a slime chunk that explodes into multiple slime balls
+			Uses 34 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Drop
+			'''
+	}
+
+	SunRod: {
+		DisplayName: Sun Rod
+		Tooltip:
+			'''
+			Cast slow moving light orbs
+			Light orbs deal more damage and knockback on the first hit
+			Each hit increases the rate at which the orb hits enemies
+			-----
+			Secondary
+
+			Cast a slow moving sun that heals players and sets enemies on fire
+			Uses 58 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	StingerBow: {
+		DisplayName: Stinger Bow
+		Tooltip: ""
+	}
+
+	DustGun: {
+		DisplayName: Dust Gun
+		Tooltip: ""
+	}
+
+	VigilanteCowl: {
+		DisplayName: Vigilante Cowl
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased attack speed by 10%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	GrimChestplate: {
+		DisplayName: Grim Chestplate
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 10%
+			-----
+			Other
+			Increased knockback by 8%
+			-----
+			Rarity: [c/3546fc:Rare]
+			Obtained: Loot
+			'''
+	}
+
+	VigilanteChest: {
+		DisplayName: Vigilante Armored Garments
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased attack speed by 5%
+			Increased damage by 5%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	VigilanteBoots: {
+		DisplayName: Vigilante Boots
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 2%
+			-----
+			Other
+			Increased damage by 10%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	VigilanteScarf: {
+		DisplayName: Vigilante Scarf
+		Tooltip:
+			'''
+			-----
+			Enter shadow state for 6 seconds when below 41 HP
+			Uses 30 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	BoneMarrow: {
+		DisplayName: Bone Marrow
+		Tooltip: ""
+	}
+
+	CozyScarf: {
+		DisplayName: Cozy Scarf
+		Tooltip: ""
+	}
+
+	IceRapier: {
+		Tooltip:
+			'''
+			Critical hits deal 9% more damage
+			-----
+			Secondary
+
+			Rise into the air with with a spinning blade
+			Hitting an enemy will temporarily make you immune to damage
+			Uses 33 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Chest
+			'''
+		DisplayName: Verglas
+	}
+
+	SunKnife: {
+		DisplayName: Sun Dagger
+		Tooltip:
+			'''
+			Every five swings, hitting an enemy will create a flaming burst
+			-----
+			Secondary
+
+			Launch flaming rings that pierce enemies
+			Uses 23 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Drop
+			'''
+	}
+
+	ModernBow: {
+		DisplayName: Mechanical Bow
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			Adjusts aim to enemies near your cursor for 18 seconds
+			Increased fire rate and shot velocity
+			Uses 68 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	EaterMinionItem: {
+		DisplayName: Eaters Cane
+		Tooltip:
+			'''
+			Summons a baby eater of souls to fight for you
+			-----
+			Secondary
+
+			Summon a baby devourer that lasts for 15 seconds
+			Uses 70 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	CopperWand: {
+		DisplayName: Copper Wand
+		Tooltip:
+			'''
+			Deals more damage at close range
+			-----
+			Secondary
+
+			Preform a short magic dash
+			Uses 39 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	TinWhip: {
+		DisplayName: Tin Whip
+		Tooltip:
+			'''
+			-----
+			Secondary
+
+			For 5 seconds, striking an enemy grants increased armor penetration
+			This buff only applies to the tin whip
+			Uses 25 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	ElementalBook: {
+		Tooltip:
+			'''
+			Casts one of four spells randomly
+			[c/d49458:Sand]: A long lasing dust devil that penetrates armor
+			[c/63d0d5:Ice]: A high critical strike rate frost spear
+			[c/22dd32:Poison]: Two poisonus clouds that deal more damage after hitting
+			[c/ff7b33:Fire]: A flaming explosion that deals high knockback
+			-----
+			Secondary
+
+			Cast an orb that releases all spells
+			Uses 64 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+		DisplayName: Elemental Book
+	}
+
+	MushroomGun: {
+		DisplayName: Mushroom Rifle
+		Tooltip:
+			'''
+			Fire a mushroom shortly followed by another
+			The second mushroom deals 25% extra damage and 30% extra knockback
+			-----
+			Secondary
+
+			Release a mechanical mushroom that manifests exploding mushrooms periodicaly
+			Uses 38 energy
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+
+	AdamantiteChest: {
+		DisplayName: Adamantite Breastplate MKII
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 6%
+			-----
+			Other
+			Increased damage by 10%
+			Increased shot velocity by 8%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	AdamantiteHead: {
+		DisplayName: Adamantite Mask MKII
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 4%
+			-----
+			Other
+			Increased critical strike chance by 14%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	AdamantiteLegs: {
+		DisplayName: Adamantite Leggings MKII
+		Tooltip:
+			'''
+			-----
+			Movement Penalty
+			Decreased movement speed by 2%
+			-----
+			Other
+			Increased acceleration by 10%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Craft
+			'''
+	}
+
+	OnyxBlade: {
+		DisplayName: Onyx Blade
+		Tooltip:
+			'''
+			Strike an enemy to increase the blades charge
+			When at full charge, unleash an onyx blast
+			-----
+			Secondary
+
+			For 5 seconds, charge is infinite
+			Uses 42 energy
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+	}
+
+	CobaltHood: {
+		Tooltip:
+			'''
+			Decreased movement speed by 2%
+			Increased acceleration by 8%
+			Increased attack speed by 7%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+		DisplayName: Cobalt Hood
+	}
+
+	CobaltShirt: {
+		Tooltip:
+			'''
+			Decreased movement speed by 4%
+			Increased attack speed by 10%
+			Increased damage by 5%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+		DisplayName: Cobalt Shirt
+	}
+
+	CobaltPants: {
+		Tooltip:
+			'''
+			Increased movement speed by 10%
+			Increased attack speed by 5%
+			-----
+			Rarity: [c/78ff87:Uncommon]
+			Obtained: Craft
+			'''
+		DisplayName: Cobalt Pants
+	}
+
+	CastingScroll: {
+		DisplayName: Casting Scroll
+		Tooltip:
+			'''
+			Increased magic attack speed by 8%
+			Reduced mana usage by 8%
+			-----
+			Rarity: [c/bffff2:Common]
+			Obtained: Purchased
+			'''
+	}
+}
+
+Projectiles: {
+	Null.DisplayName: Null
+	MagnetMinion.DisplayName: Magnetic Ball
+	KanumLongswordProjectile.DisplayName: Kanum Longsword Projectile
+	ThornRing.DisplayName: Thorn Ring
+	Fur.DisplayName: Fur
+	FurBomb.DisplayName: Fur Bomb
+	SolarFuryProjectile.DisplayName: Solar Fury Projectile
+	MagicCardProj.DisplayName: Magic Card
+	TyphoonProjectile.DisplayName: Typhoon
+	MiniSharkronGun.DisplayName: Mini Sharkron Gun
+	FulgurArrow.DisplayName: Fulgur Arrow
+	Lightning.DisplayName: Lightning
+	CoriteYoyoProj.DisplayName: Corite Yoyo
+	CoriteSawblade.DisplayName: Corite Sawblade
+	Snowflake.DisplayName: Snowflake
+	SnowflakeShard.DisplayName: Snowflake Shard
+	SnowWall.DisplayName: Snow Wall
+	PoisonBall.DisplayName: Poison Ball
+	VenomBall.DisplayName: Venom Ball
+	Sandstorm.DisplayName: Sandstorm
+	SandstormEye.DisplayName: Sandstorm Eye
+	CorruptSandstorm.DisplayName: Corrupt Sandstorm
+	CorruptSandstormEye.DisplayName: Corrupt Sandstorm Eye
+	CrimsonSandstorm.DisplayName: Crimson Sandstorm
+	CrimsonSandstormEye.DisplayName: Crimson Sandstorm Eye
+	RainSpearProjectile.DisplayName: Rain Spear
+	RainSpearThrown.DisplayName: Rain Spear
+	Raindrop.DisplayName: Raindrop
+	OceanWhipProj.DisplayName: Ocean Whip
+	OceanSwirl.DisplayName: whirlpool
+	OceanWhipProjSecondary.DisplayName: Ocean Whip
+	PowerSpearLazer.DisplayName: Power Wave
+	PowerSpearProjectile.DisplayName: Power Spear
+	PowerSpearProjectileSecondary.DisplayName: Power Spear
+	SlimeMaceProjectile.DisplayName: Slime Mace
+	SlimeBall.DisplayName: Slime Ball
+	FrozenBoomerangProj.DisplayName: Frozen Boomerang Proj
+	BloodSickleProjectile.DisplayName: Blood Sickle Projectile
+	KanumSickleProjectile.DisplayName: Kanum Sickle Projectile
+	KanumSickleProjectileSecondary.DisplayName: Kanum Sickle Projectile Secondary
+	MagtaneJoustingLanceProjectile.DisplayName: Magtane Jousting Lance Projectile
+	ThornMaceProjectile.DisplayName: Thorn Mace Projectile
+	ThornBall.DisplayName: Thorn Ball
+	ThornMaceProjectileSecondary.DisplayName: Thorn Mace Projectile Secondary
+	Thorn.DisplayName: Thorn
+	Frostflake.DisplayName: Frostflake
+	FrostflakeShard.DisplayName: Frostflake Shard
+	LeafWhipProj.DisplayName: Leaf Whip
+	NatureSanctuary.DisplayName: Nature Sanctuary
+	BranchBall.DisplayName: Branch Ball
+	Branch.DisplayName: Branch
+	MagtaneRepeaterExplosion.DisplayName: Heat Burst
+	RageBolt.DisplayName: Rage Bolt
+	AquaRing.DisplayName: Aqua Ring
+	MoltenSlag.DisplayName: Molten Slag
+	MoltenArray.DisplayName: Molten Array
+	GuitarRing.DisplayName: Guitar Ring
+	SlimeBallBig.DisplayName: Large Slime Ball
+	SparklerProjectile.DisplayName: Sparkler
+	Spark.DisplayName: Spark
+	QueenSlimeBallPurple.DisplayName: Queen Slime Ball Purple
+	QueenSlimeBallPink.DisplayName: Queen Slime Ball Pink
+	QueenSlimeBallNavy.DisplayName: Queen Slime Ball Navy
+	QueenSlimeBallBigPurple.DisplayName: Queen Slime Ball Big Purple
+	QueenSlimeBallBigPink.DisplayName: Queen Slime Ball Big Pink
+	QueenSlimeBallBigNavy.DisplayName: Queen Slime Ball Big Navy
+	DarkGlaiveProjectile.DisplayName: Dark Glaive
+	PoisonKnife.DisplayName: Poison Knife
+	MagicLampDust.DisplayName: Magic Lamp Ball
+	SubZeroShard.DisplayName: Ultimate Ice Shard
+	WindChargeExplosion.DisplayName: Wind Explosion
+	Spacedust.DisplayName: Spacedust
+	Spacestar.DisplayName: Spacestar
+	HolyBeam.DisplayName: Holy Beam
+	CoriteBomb.DisplayName: Corite Bomb
+	CoriteBomb2.DisplayName: Corite Bomb
+	CrescentSickleProjectile.DisplayName: Crescent Sickle
+	LeafMinion.DisplayName: Sentient Leaf
+	Wave.DisplayName: Wave
+	BubbleYoyoProj.DisplayName: Bubble Yoyo Proj
+	Bubble.DisplayName: Bubble
+	ElectricSpark.DisplayName: Electric Spark
+	TechBeamSword.DisplayName: Tech Beam
+	TechBeamSwordMini.DisplayName: Tech Beam
+	DarkBomb.DisplayName: Dark Bomb
+	ChaosBoomerangProj.DisplayName: Chaos Boomerang Proj
+	ShotgunBlade.DisplayName: Blue Blade
+	ShotgunBladeBig.DisplayName: Blue Blade
+	DungeonWhipProj.DisplayName: Dungeon Whip Proj
+	DungeonWhipProjBig.DisplayName: Dungeon Whip Proj Big
+	DungeonWhipProjSecondary.DisplayName: Dungeon Whip Proj Secondary
+	WindBomb.DisplayName: Wind Charge
+	Whirlwind.DisplayName: Whirlwind
+	ChakramProj.DisplayName: Chakram
+	ChakramProjSecondary.DisplayName: Chakram
+	IceGlass.DisplayName: Ice Glass
+	IceField.DisplayName: Ice Field
+	DarkGlaiveProjSecondary.DisplayName: Dark Glaive
+	CycloneickleProjectile.DisplayName: Cycloneickle Projectile
+	CycloneSickleProjSecondary.DisplayName: Cyclone Sickle Proj Secondary
+	Cyclone.DisplayName: Cyclone
+	DemonYoyoEnergy.DisplayName: Demon Yoyo Energy
+	DemonYoyoProj.DisplayName: Demon Yoyo Proj
+	SnatcherSentry.DisplayName: Baby Snatcher
+	SnatcherAnchor.DisplayName: Snatcher Anchor
+	OilDrop.DisplayName: Oil Drop
+	FlammableSpark.DisplayName: Flammable Spark
+	OilExplosion.DisplayName: Oil Explosion
+	OilExplosionBig.DisplayName: Oil Explosion Big
+	CrescentBeam.DisplayName: Crescent Beam
+	CrescentSickleProjSecondary.DisplayName: Crescent Sickle Proj Secondary
+	HoneyDiscProj.DisplayName: Honey Disc Proj
+	HoneyDiscProjSecondary.DisplayName: Honey Disc Proj Secondary
+	HoneyLanceProj.DisplayName: Honey Lance Proj
+	HoneyLanceProjSecondary.DisplayName: Honey Lance Proj Secondary
+	SlimeBomb.DisplayName: Slime Bomb
+	BigSlimeBomb.DisplayName: Big Slime Bomb
+	SunOrb.DisplayName: Sun Orb
+	SunOrbLarge.DisplayName: Sun Orb Large
+	StingerBolt.DisplayName: Stinger Bolt
+	PoisonCloud.DisplayName: Poison Cloud
+	SandGust.DisplayName: Sand Gust
+	IceRapierProjectile.DisplayName: Ice Rapier Projectile
+	SunKnifeProjectile.DisplayName: Sun Knife Projectile
+	SunRings.DisplayName: Sun Rings
+	SunBurst.DisplayName: Sun Burst
+	IceRapierSpin.DisplayName: Ice Rapier Spin
+	ModernBowTarget.DisplayName: Modern Bow Target
+	EaterMinion.DisplayName: Eater Minion
+	AmethystBlade.DisplayName: Amethyst Blade
+	AmethystDash.DisplayName: Amethyst Dash
+	CopperWandProjectile.DisplayName: Copper Wand Projectile
+	TinWhipProj.DisplayName: Tin Whip Proj
+	MechaMushroom.DisplayName: Mecha Mushroom
+	MechaMushroomSpawner.DisplayName: Mecha Mushroom Spawner
+	AdamantiteSetLaser.DisplayName: Adamantite Set Laser
+	CobaltSetZone.DisplayName: Cobalt Set Zone
+}
+
+UI: {
+	Energy: Energy
+	Ultimate: "[c/110094:Ult][c/2c19bd:ima][c/321aea:te]"
+	Heat: "[c/c81222:H][c/f42a0a:e][c/fc6619:a][c/ffb32f:t]"
+	Ammo: "[c/ffd800:Ammo]"
+}
+
+Buffs: {
+	MagnetMinionBuff: {
+		DisplayName: Magnetic Core
+		Description: A magnetic ball that is attracted to enemies
+	}
+
+	IceArmorDebuff: {
+		DisplayName: Cracked Armor
+		Description:
+			'''
+			Ice armor defense bonus is negated
+			-3 defense
+			'''
+	}
+
+	VenomRage: {
+		DisplayName: Venom Rage
+		Description: Mods.NewLoot.Buffs.VenomRage.Description
+	}
+
+	CorruptSandstormBuff: {
+		DisplayName: Swift Wind
+		Description:
+			'''
+			Movement speed increased by 10%
+			max speed Increased by 10%
+			'''
+	}
+
+	CrimsonSandstormBuff: {
+		DisplayName: Mending Wind
+		Description: Life regeneration increased by 1
+	}
+
+	OceanWhipDebuff: {
+		Description: Mods.NewLoot.Buffs.OceanWhipDebuff.Description
+		DisplayName: Ocean Whip Debuff
+	}
+
+	PowerSpearBuff: {
+		DisplayName: Energy Siphon
+		Description: Energy regeneration increased by 10
+	}
+
+	ShimmerRage: {
+		DisplayName: Focus
+		Description:
+			'''
+			Arc of shimmer bow is smaller
+			Shimmer bow critical strike chance increased by 3%
+			'''
+	}
+
+	SubZeroBuff: {
+		DisplayName: Sub Zero
+		Description: I CANT FEEL MY BODY!
+	}
+
+	HeatWaveBuff: {
+		DisplayName: Heat Wave Buff
+		Description: IT BURNS! IT BURNS!
+	}
+
+	FrostRodBuff: {
+		DisplayName: Pullback
+		Description: Frost Rod shards travel back to where they were released
+	}
+
+	MagneticCursor: {
+		DisplayName: Magnetic Cursor
+		Description:
+			'''
+			Magnetic cores are magneticaly attracted to the cursor
+			Magnetic cores move faster
+			'''
+	}
+
+	LeafWhipDebuff: {
+		Description: Mods.NewLoot.Buffs.LeafWhipDebuff.Description
+		DisplayName: Leaf Whip Debuff
+	}
+
+	NatureBuff: {
+		Description: vine whip range increased
+		DisplayName: Stimulated vines
+	}
+
+	Overheat: {
+		Description: You can't use any repeaters
+		DisplayName: Overheat
+	}
+
+	AquaBuff: {
+		DisplayName: Aqua Power
+		Description:
+			'''
+			Aqua rings last twice as long
+			Aqua rings damage scales slower
+			'''
+	}
+
+	Exhilaration: {
+		DisplayName: Frenzy
+		Description: Increased attack speed by 10%
+	}
+
+	Sparkling: {
+		DisplayName: Sparked
+		Description: sparkler occasionaly releases sparks from its tip
+	}
+
+	SlimeMaceBuff: {
+		DisplayName: Slime shot
+		Description: Slime mace releases a large slime ball when thown out
+	}
+
+	IronskinMini: {
+		DisplayName: Ferricskin
+		Description: Increased defense by 3
+	}
+
+	SwiftnessMini: {
+		DisplayName: Haste
+		Description: Increased movement speed by 15%
+	}
+
+	Halo: {
+		DisplayName: Halo
+		Description: Just wait a little bit longer
+	}
+
+	CoriteYoyoBuff: {
+		DisplayName: Corite Yoyo Buff
+		Description: A sawblade follows the yoyo
+	}
+
+	MagnetSpeed: {
+		DisplayName: Magnetic Surge
+		Description: Movement speed is doubled
+	}
+
+	BloodSteal: {
+		DisplayName: Blood Steal
+		Description: Mods.NewLoot.Buffs.BloodSteal.Description
+	}
+
+	LeafMinionBuff: {
+		DisplayName: Sentient Leaf
+		Description: A sentient leaf that will fight for you
+	}
+
+	RazorLeafs: {
+		DisplayName: Razor Leafs
+		Description: Leaf minions gain 4 armor penetration
+	}
+
+	BayBladeBuff: {
+		DisplayName: Wave Surge
+		Description: Waves created from the bay blade re-empowers it
+	}
+
+	BubbleExpand: {
+		DisplayName: Bubble Expantion
+		Description: Bubbles from the yobble expand twice as fast
+	}
+
+	DungeonWhipDebuff: {
+		DisplayName: Dungeon Whip Debuff
+		Description: Mods.NewLoot.Buffs.DungeonWhipDebuff.Description
+	}
+
+	CycloneSpeed: {
+		DisplayName: Cyclone Speed
+		Description: Mods.NewLoot.Buffs.CycloneSpeed.Description
+	}
+
+	CyclonePower: {
+		DisplayName: Cyclone Power
+		Description:
+			'''
+			Movement speed increased by 40%
+			Movement acceleration increased by 75%
+			Damage taken reduced by 33%
+			'''
+	}
+
+	DemonYoyoBuff: {
+		Description: Mods.NewLoot.Buffs.DemonYoyoBuff.Description
+		DisplayName: Demon Yoyo Buff
+	}
+
+	SnatcherSentryBuff: {
+		Description: It thinks you're it's parent
+		DisplayName: Baby Snatcher
+	}
+
+	Oil: {
+		Description: Mods.NewLoot.Buffs.Oil.Description
+		DisplayName: Oil
+	}
+
+	Flammable: {
+		Description: Mods.NewLoot.Buffs.Flammable.Description
+		DisplayName: Flammable
+	}
+
+	BloodSetBuff: {
+		DisplayName: Critical Power
+		Description: The next hit is guarenteed to be a critical strike
+	}
+
+	CoriteSetBuff: {
+		DisplayName: Corite Defense
+		Description: Immune to knockback
+	}
+
+	HoneyDiscDebuff: {
+		DisplayName: Honey Disc Debuff
+		Description: Mods.NewLoot.Buffs.HoneyDiscDebuff.Description
+	}
+
+	Sunlight: {
+		DisplayName: Ancient Light
+		Description: Increased life regeneration by 3
+	}
+
+	StingerBoltDebuff: {
+		DisplayName: Stinger Bolt Debuff
+		Description: Mods.NewLoot.Buffs.StingerBoltDebuff.Description
+	}
+
+	Shadow: {
+		DisplayName: Shadow Dodge
+		Description: Those were the good days
+	}
+
+	ModernBowBuff: {
+		DisplayName: In Sights
+		Description: Mechanical bow locks onto enemies and fires faster
+	}
+
+	EaterMinionBuff: {
+		DisplayName: Eater Minion Buff
+		Description: Mods.NewLoot.Buffs.EaterMinionBuff.Description
+	}
+
+	TinWhipBuff: {
+		DisplayName: Tin Whip Buff
+		Description: Mods.NewLoot.Buffs.TinWhipBuff.Description
+	}
+}
+
+DropConditions.Example: Mods.NewLoot.DropConditions.Example

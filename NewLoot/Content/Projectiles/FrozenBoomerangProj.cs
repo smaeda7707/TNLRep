@@ -1,0 +1,65 @@
+﻿using Terraria;
+using Terraria.ModLoader;
+using Terraria.ID;
+using Terraria.GameContent.Creative;
+using Newloot.Content.Projectiles;
+using Terraria.DataStructures;
+using Microsoft.Xna.Framework;
+using Terraria.Audio;
+using NewLoot.Content.Projectiles;
+using Mono.Cecil;
+using NewLoot.Common.Global;
+
+namespace Newloot.Content.Projectiles
+{
+    internal class FrozenBoomerangProj : ModProjectile
+    {
+        public static bool isFrozen;
+        private bool shattered;
+        public override void SetStaticDefaults()
+        {
+            // Sets the amount of frames this minion has on its spritesheet
+            Main.projFrames[Projectile.type] = 2;
+        }
+        public override void SetDefaults()
+        {
+            Projectile.width = 22;
+            Projectile.height = 32;
+            Projectile.aiStyle = 3;
+            Projectile.friendly = true;
+            Projectile.DamageType = DamageClass.Melee;
+            Projectile.penetrate = -1;
+            Projectile.timeLeft = 600;
+
+        }
+        public override void AI()
+        {
+ 
+            if (!isFrozen)
+            {
+                if (!shattered)
+                {
+
+                    // Importantly, ai1 is set to 1 here. This is checked in OnTileCollide to prevent bouncing and here in Kill to prevent an infinite chain of splitting projectiles.
+                    GlobalProjectileMethods.CreateRotatedProjectiles(Main.player[Projectile.owner], Projectile.GetSource_FromThis(), Projectile.Center, Projectile.velocity, ModContent.ProjectileType<SnowflakeShard>(), Projectile.damage/3, 8, 3, Projectile.knockBack/4, true);
+
+
+                    Projectile.frame++;
+                    shattered = true;
+                }
+                Projectile.extraUpdates = 1;
+            }
+            else
+            {
+                Projectile.extraUpdates = 0;
+            }
+        }
+        public override void OnKill(int timeLeft)
+        {
+            isFrozen = true;
+            shattered = false;
+            Projectile.frame++;
+        }
+
+    }
+}

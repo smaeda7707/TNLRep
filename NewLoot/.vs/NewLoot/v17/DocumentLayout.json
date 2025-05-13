@@ -1,0 +1,877 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\cobaltsetzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\cobaltsetzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\mythrilhelm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\mythrilhelm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\common\\global\\mythrilglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:common\\global\\mythrilglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\adamantitehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\adamantitehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\cobalthood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\cobalthood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\cobaltpants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\cobaltpants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\accessories\\castingscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\accessories\\castingscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\onyxblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\onyxblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\common\\global\\globalfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:common\\global\\globalfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\cobaltshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\cobaltshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\copperwandprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\copperwandprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\localization\\en-us_mods.newloot.hjson||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:localization\\en-us_mods.newloot.hjson||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\adamantitelegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\adamantitelegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\adamantitechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\adamantitechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\mythrilboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\mythrilboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\mythrilchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\mythrilchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\vigilantecowl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\vigilantecowl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\vigilantechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\vigilantechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\vigilanteboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\vigilanteboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\accessories\\vigilantescarf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\accessories\\vigilantescarf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\armor\\forestboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\armor\\forestboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\accessories\\swiftboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\accessories\\swiftboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\adamantitesetlaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\adamantitesetlaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\common\\halodraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:common\\halodraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\sunknifeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\sunknifeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\accessories\\veryswiftboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\accessories\\veryswiftboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\common\\players\\newlootplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:common\\players\\newlootplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\mechamushroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\mechamushroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\accessories\\nitrocapsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\accessories\\nitrocapsule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\buffs\\tinwhipbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\buffs\\tinwhipbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\buffs\\heatwavebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\buffs\\heatwavebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\buffs\\subzerobuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\buffs\\subzerobuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\tinwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\tinwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\mushroomgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\mushroomgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\common\\global\\globalnpclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:common\\global\\globalnpclist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\minions\\eaterminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\minions\\eaterminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\honeylanceproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\honeylanceproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\modernbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\modernbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\amethystdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\amethystdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\elementalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\elementalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\fancybow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\fancybow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\slimelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\slimelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\poisonbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\poisonbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\copperwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\copperwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\tinwhipproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\tinwhipproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\amethystblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\amethystblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\icerapierspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\icerapierspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\buffs\\modernbowbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\buffs\\modernbowbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ShoKM\\AppData\\Local\\Temp\\4d8fe0b3-bafe-4062-8f79-b6f18e0b8978_tModLoader-stable.zip.978\\tModLoader-stable\\ExampleMod\\Content\\Projectiles\\ExampleHomingProjectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\oceanwhipproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\oceanwhipproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\techblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\techblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\projectiles\\modernbowtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\projectiles\\modernbowtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|c:\\users\\shokm\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\newloot\\content\\items\\weapons\\icerapier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB71-3DA4-4EF4-BBAC-810BDA54616B}|NewLoot.csproj|solutionrelative:content\\items\\weapons\\icerapier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SunKnifeProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\SunKnifeProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\SunKnifeProjectile.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\SunKnifeProjectile.cs",
+              "RelativeToolTip": "Content\\Projectiles\\SunKnifeProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAADBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:02:06.174Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CobaltSetZone.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\CobaltSetZone.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\CobaltSetZone.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\CobaltSetZone.cs",
+              "RelativeToolTip": "Content\\Projectiles\\CobaltSetZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:32:23.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CastingScroll.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\CastingScroll.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\CastingScroll.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\CastingScroll.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\CastingScroll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:34:30.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CobaltPants.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltPants.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\CobaltPants.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltPants.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\CobaltPants.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:51:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CobaltShirt.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltShirt.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\CobaltShirt.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltShirt.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\CobaltShirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:32:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CobaltHood.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltHood.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\CobaltHood.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\CobaltHood.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\CobaltHood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:00:00.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VigilanteBoots.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteBoots.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\VigilanteBoots.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteBoots.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\VigilanteBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:48:01.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VigilanteCowl.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteCowl.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\VigilanteCowl.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteCowl.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\VigilanteCowl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:47:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VigilanteChest.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteChest.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\VigilanteChest.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\VigilanteChest.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\VigilanteChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:47:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VigilanteScarf.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\VigilanteScarf.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\VigilanteScarf.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\VigilanteScarf.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\VigilanteScarf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:47:36.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForestBoots.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\ForestBoots.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\ForestBoots.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\ForestBoots.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\ForestBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:08:12.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnyxBlade.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\OnyxBlade.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\OnyxBlade.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\OnyxBlade.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\OnyxBlade.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwHgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:44.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdamantiteSetLaser.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AdamantiteSetLaser.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\AdamantiteSetLaser.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AdamantiteSetLaser.cs",
+              "RelativeToolTip": "Content\\Projectiles\\AdamantiteSetLaser.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:10:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SwiftBoots.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\SwiftBoots.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\SwiftBoots.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\SwiftBoots.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\SwiftBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:10:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VerySwiftBoots.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\VerySwiftBoots.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\VerySwiftBoots.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\VerySwiftBoots.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\VerySwiftBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:09:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdamantiteLegs.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteLegs.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\AdamantiteLegs.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteLegs.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\AdamantiteLegs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:45:22.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdamantiteHead.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteHead.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\AdamantiteHead.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteHead.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\AdamantiteHead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAC7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:23:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NitroCapsule.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\NitroCapsule.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\NitroCapsule.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Accessories\\NitroCapsule.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\NitroCapsule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:48:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdamantiteChest.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteChest.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\AdamantiteChest.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\AdamantiteChest.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\AdamantiteChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:37:23.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HeatWaveBuff.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\HeatWaveBuff.cs",
+              "RelativeDocumentMoniker": "Content\\Buffs\\HeatWaveBuff.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\HeatWaveBuff.cs",
+              "RelativeToolTip": "Content\\Buffs\\HeatWaveBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:30:14.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubZeroBuff.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\SubZeroBuff.cs",
+              "RelativeDocumentMoniker": "Content\\Buffs\\SubZeroBuff.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\SubZeroBuff.cs",
+              "RelativeToolTip": "Content\\Buffs\\SubZeroBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:27:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MythrilGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\MythrilGlobal.cs",
+              "RelativeDocumentMoniker": "Common\\Global\\MythrilGlobal.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\MythrilGlobal.cs",
+              "RelativeToolTip": "Common\\Global\\MythrilGlobal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:16:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MythrilHelm.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilHelm.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\MythrilHelm.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilHelm.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\MythrilHelm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:57:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MythrilChest.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilChest.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\MythrilChest.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilChest.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\MythrilChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:57:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MythrilBoots.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilBoots.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Armor\\MythrilBoots.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Armor\\MythrilBoots.cs",
+              "RelativeToolTip": "Content\\Items\\Armor\\MythrilBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:56:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MechaMushroom.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\MechaMushroom.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\MechaMushroom.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\MechaMushroom.cs",
+              "RelativeToolTip": "Content\\Projectiles\\MechaMushroom.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T05:09:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MushroomGun.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\MushroomGun.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\MushroomGun.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\MushroomGun.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\MushroomGun.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:44:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HoneyLanceProj.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\HoneyLanceProj.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\HoneyLanceProj.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\HoneyLanceProj.cs",
+              "RelativeToolTip": "Content\\Projectiles\\HoneyLanceProj.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAAwGIBAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:31:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ElementalBook.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\ElementalBook.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\ElementalBook.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\ElementalBook.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\ElementalBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:58:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FancyBow.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\FancyBow.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\FancyBow.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\FancyBow.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\FancyBow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:58:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SlimeLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\SlimeLauncher.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\SlimeLauncher.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\SlimeLauncher.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\SlimeLauncher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:03:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PoisonBook.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\PoisonBook.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\PoisonBook.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\PoisonBook.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\PoisonBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:36:58.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TinWhipBuff.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\TinWhipBuff.cs",
+              "RelativeDocumentMoniker": "Content\\Buffs\\TinWhipBuff.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\TinWhipBuff.cs",
+              "RelativeToolTip": "Content\\Buffs\\TinWhipBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:11:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TinWhipProj.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\TinWhipProj.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\TinWhipProj.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\TinWhipProj.cs",
+              "RelativeToolTip": "Content\\Projectiles\\TinWhipProj.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwGwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:54:16.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TinWhip.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\TinWhip.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\TinWhip.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\TinWhip.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\TinWhip.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:49:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AmethystDash.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AmethystDash.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\AmethystDash.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AmethystDash.cs",
+              "RelativeToolTip": "Content\\Projectiles\\AmethystDash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T22:20:11.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CopperWandProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\CopperWandProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\CopperWandProjectile.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\CopperWandProjectile.cs",
+              "RelativeToolTip": "Content\\Projectiles\\CopperWandProjectile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T22:09:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AmethystBlade.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AmethystBlade.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\AmethystBlade.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\AmethystBlade.cs",
+              "RelativeToolTip": "Content\\Projectiles\\AmethystBlade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:32:35.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CopperWand.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\CopperWand.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\CopperWand.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\CopperWand.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\CopperWand.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:26:12.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EaterMinion.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\Minions\\EaterMinion.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\Minions\\EaterMinion.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\Minions\\EaterMinion.cs",
+              "RelativeToolTip": "Content\\Projectiles\\Minions\\EaterMinion.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAiwJcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:03:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TechBlade.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\TechBlade.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\TechBlade.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\TechBlade.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\TechBlade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:37:29.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GlobalNPCList.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\GlobalNPCList.cs",
+              "RelativeDocumentMoniker": "Common\\Global\\GlobalNPCList.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\GlobalNPCList.cs",
+              "RelativeToolTip": "Common\\Global\\GlobalNPCList.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAgwMgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:31:51.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ModernBowTarget.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\ModernBowTarget.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\ModernBowTarget.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\ModernBowTarget.cs",
+              "RelativeToolTip": "Content\\Projectiles\\ModernBowTarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:08:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HaloDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\HaloDraw.cs",
+              "RelativeDocumentMoniker": "Common\\HaloDraw.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\HaloDraw.cs",
+              "RelativeToolTip": "Common\\HaloDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:47:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OceanWhipProj.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\OceanWhipProj.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\OceanWhipProj.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\OceanWhipProj.cs",
+              "RelativeToolTip": "Content\\Projectiles\\OceanWhipProj.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:40:49.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExampleHomingProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\AppData\\Local\\Temp\\4d8fe0b3-bafe-4062-8f79-b6f18e0b8978_tModLoader-stable.zip.978\\tModLoader-stable\\ExampleMod\\Content\\Projectiles\\ExampleHomingProjectile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4d8fe0b3-bafe-4062-8f79-b6f18e0b8978_tModLoader-stable.zip.978\\tModLoader-stable\\ExampleMod\\Content\\Projectiles\\ExampleHomingProjectile.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\AppData\\Local\\Temp\\4d8fe0b3-bafe-4062-8f79-b6f18e0b8978_tModLoader-stable.zip.978\\tModLoader-stable\\ExampleMod\\Content\\Projectiles\\ExampleHomingProjectile.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4d8fe0b3-bafe-4062-8f79-b6f18e0b8978_tModLoader-stable.zip.978\\tModLoader-stable\\ExampleMod\\Content\\Projectiles\\ExampleHomingProjectile.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:19:08.548Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GlobalFields.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\GlobalFields.cs",
+              "RelativeDocumentMoniker": "Common\\Global\\GlobalFields.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Global\\GlobalFields.cs",
+              "RelativeToolTip": "Common\\Global\\GlobalFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:33:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NewLootPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Players\\NewLootPlayer.cs",
+              "RelativeDocumentMoniker": "Common\\Players\\NewLootPlayer.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Common\\Players\\NewLootPlayer.cs",
+              "RelativeToolTip": "Common\\Players\\NewLootPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:32:02.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ModernBowBuff.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\ModernBowBuff.cs",
+              "RelativeDocumentMoniker": "Content\\Buffs\\ModernBowBuff.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Buffs\\ModernBowBuff.cs",
+              "RelativeToolTip": "Content\\Buffs\\ModernBowBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:32:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ModernBow.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\ModernBow.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\ModernBow.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\ModernBow.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\ModernBow.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwJIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:24:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "en-US_Mods.NewLoot.hjson",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Localization\\en-US_Mods.NewLoot.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.NewLoot.hjson",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Localization\\en-US_Mods.NewLoot.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.NewLoot.hjson",
+              "ViewState": "AQIAAKQIAAAAAAAAAAAUwAAJAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T01:34:05.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IceRapier.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\IceRapier.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\IceRapier.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Items\\Weapons\\IceRapier.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\IceRapier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:18:23.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IceRapierSpin.cs",
+              "DocumentMoniker": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\IceRapierSpin.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\IceRapierSpin.cs",
+              "ToolTip": "C:\\Users\\ShoKM\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewLoot\\Content\\Projectiles\\IceRapierSpin.cs",
+              "RelativeToolTip": "Content\\Projectiles\\IceRapierSpin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:03:58.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

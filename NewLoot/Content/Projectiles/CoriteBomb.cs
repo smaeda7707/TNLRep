@@ -1,0 +1,122 @@
+﻿using Microsoft.Xna.Framework;
+using NewLoot.Content.Projectiles;
+using System;
+using Terraria;
+using Terraria.Audio;
+using Terraria.ID;
+using Terraria.ModLoader;
+
+namespace Newloot.Content.Projectiles
+{
+    internal class CoriteBomb : ModProjectile
+    {
+        private const int DefaultWidthHeight = 8;
+        private const int ExplosionWidthHeight = 30;
+        private bool check = true;
+
+        public override void SetStaticDefaults()
+        {
+            // Sets the amount of frames this minion has on its spritesheet
+            Main.projFrames[Projectile.type] = 2;
+        }
+
+        public override void SetDefaults()
+        {
+            // While the sprite is actually bigger than 15x15, we use 15x15 since it lets the projectile clip into tiles as it bounces. It looks better.
+            Projectile.width = DefaultWidthHeight;
+            Projectile.height = DefaultWidthHeight;
+            Projectile.friendly = true;
+            Projectile.penetrate = -1;
+
+            // 5 second fuse.
+            Projectile.timeLeft = 80;
+
+            DrawOriginOffsetX = 3;
+            DrawOriginOffsetY = -3;
+        }
+        public override Color? GetAlpha(Color lightColor)
+        {
+            return Color.White;
+        }
+
+
+        public override void AI()
+        {
+            if (Projectile.owner == Main.myPlayer && Projectile.timeLeft == 30)
+            {
+                Projectile.rotation = 0;
+                Projectile.frame++;
+                Projectile.Resize(ExplosionWidthHeight, ExplosionWidthHeight);
+
+                // Play explosion sound
+                SoundEngine.PlaySound(SoundID.Item14, Projectile.position);
+                // Smoke Dust spawn
+                for (int i = 0; i < 20; i++)
+                {
+                    Dust dust = Dust.NewDustDirect(Projectile.position, Projectile.width, Projectile.height, DustID.AncientLight, 0f, 0f, 100, default, 2f);
+                    dust.velocity *= 1.4f;
+                    dust.noGravity = true;
+                }
+
+            }
+
+            else
+            {
+                Dust dust = Dust.NewDustDirect(Projectile.Center, Projectile.width, Projectile.height, DustID.AncientLight, 0f, 0f, 100, default, 2f);
+                dust.velocity *= 0f;
+                dust.noGravity = true;
+            }
+            if (Projectile.owner == Main.myPlayer && Projectile.timeLeft <= 29)
+            {
+                Projectile.friendly = false;
+            }
+            if (Projectile.owner == Main.myPlayer && Projectile.timeLeft == 3)
+            {
+                Projectile.Kill();
+            }
+            Projectile.ai[0] += 1f;
+            if (Projectile.ai[0] > 10f)
+            {
+                Projectile.ai[0] = 10f;
+                // Roll speed dampening. 
+                if (Projectile.velocity.Y == 0f && Projectile.velocity.X != 0f)
+                {
+                    Projectile.velocity.X = Projectile.velocity.X * 0.96f;
+
+                    if (Projectile.velocity.X > -0.01 && Projectile.velocity.X < 0.01)
+                    {
+                        Projectile.velocity.X = 0f;
+                        Projectile.netUpdate = true;
+                    }
+                }
+                if (Projectile.owner == Main.myPlayer && Projectile.timeLeft > 30)
+                {
+                    // Delayed gravity
+                    Projectile.velocity.Y = Projectile.velocity.Y + 0.2f;
+                }
+                else
+                {
+                    Projectile.velocity *= 0;
+                }
+
+            }
+        }
+        public override void OnHitNPC(NPC target, NPC.HitInfo hit, int damageDone)
+        {
+            if (check == true)
+            {
+                Projectile.timeLeft = 31;
+                check = false;
+            }
+            
+        }
+
+        public override void OnKill(int timeLeft)
+        {
+            if (Projectile.owner == Main.myPlayer && Projectile.ai[1] == 0)
+            {
+                Projectile.NewProjectile(Projectile.GetSource_FromThis(), Projectile.Center.X, Projectile.Center.Y - 1f, Main.rand.Next(0, 0) * 1f, Main.rand.Next(0, 0) * 1f, ModContent.ProjectileType<CoriteBomb2>(), (int)(Projectile.damage * 0.5f), 0, Projectile.owner);
+            }
+        }
+    }
+}

@@ -1,0 +1,3 @@
+displayName = New Loot
+author = sh0gun
+version = 0.1

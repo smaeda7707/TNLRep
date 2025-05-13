@@ -1,0 +1,115 @@
+﻿using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework;
+using System;
+using Terraria.Audio;
+using Terraria.GameContent;
+using Terraria.ID;
+using Terraria.ModLoader;
+using Terraria;
+using NewLoot.Content.Projectiles;
+
+namespace NewLoot.Content.Projectiles
+{
+    internal class FurBomb : ModProjectile
+    {
+        private const int DefaultWidthHeight = 10;
+
+        public override void SetDefaults()
+        {
+            Projectile.width = DefaultWidthHeight; // The width of projectile hitbox
+            Projectile.height = DefaultWidthHeight; // The height of projectile hitbox
+            Projectile.aiStyle = 1; // The ai style of the projectile, please reference the source code of Terraria
+            Projectile.friendly = true; // Can the projectile deal damage to enemies?
+            Projectile.hostile = false; // Can the projectile deal damage to the player?
+            Projectile.DamageType = DamageClass.Ranged; // Is the projectile shoot by a ranged weapon?
+            Projectile.penetrate = 1; // How many monsters the projectile can penetrate. (OnTileCollide below also decrements penetrate for bounces as well)
+            Projectile.timeLeft = 120; // The live time for the projectile (60 = 1 second, so 600 is 10 seconds)
+            Projectile.ignoreWater = true; // Does the projectile's speed be influenced by water?
+            Projectile.tileCollide = true; // Can the projectile collide with tiles?
+            Projectile.extraUpdates = 1;
+            Projectile.scale = 1.2f;
+
+            AIType = ProjectileID.WoodenArrowFriendly; // Act exactly like default Arrow
+        }
+        public override bool OnTileCollide(Vector2 oldVelocity)
+        {
+            // If collide with tile, reduce the penetrate.
+            // So the projectile can reflect at most 5 times
+            Projectile.penetrate--;
+            if (Projectile.penetrate <= 0)
+            {
+                Projectile.timeLeft = 3;
+                Projectile.Kill();
+            }
+            else
+            {
+                Collision.HitTiles(Projectile.position, Projectile.velocity, Projectile.width, Projectile.height);
+                SoundEngine.PlaySound(SoundID.Item10, Projectile.position);
+
+                // If the projectile hits the left or right side of the tile, reverse the X velocity
+                if (Math.Abs(Projectile.velocity.X - oldVelocity.X) > float.Epsilon)
+                {
+                    Projectile.velocity.X = -oldVelocity.X;
+                }
+
+                // If the projectile hits the top or bottom side of the tile, reverse the Y velocity
+                if (Math.Abs(Projectile.velocity.Y - oldVelocity.Y) > float.Epsilon)
+                {
+                    Projectile.velocity.Y = -oldVelocity.Y;
+                }
+            }
+
+            return false;
+        }
+
+
+        public override bool PreDraw(ref Color lightColor)
+        {
+            Main.instance.LoadProjectile(Projectile.type);
+            Texture2D texture = TextureAssets.Projectile[Projectile.type].Value;
+
+            // Redraw the projectile with the color not influenced by light
+            Vector2 drawOrigin = new Vector2(texture.Width * 0.5f, Projectile.height * 0.5f);
+            for (int k = 0; k < Projectile.oldPos.Length; k++)
+            {
+                Vector2 drawPos = (Projectile.oldPos[k] - Main.screenPosition) + drawOrigin + new Vector2(1f, Projectile.gfxOffY);
+                Color color = Projectile.GetAlpha(lightColor) * ((Projectile.oldPos.Length - k) / (float)Projectile.oldPos.Length);
+                Main.EntitySpriteDraw(texture, drawPos, null, color, Projectile.rotation, drawOrigin, Projectile.scale, SpriteEffects.None, 0);
+            }
+
+            return true;
+        }
+        public override void OnKill(int timeLeft)
+        {
+            SoundEngine.PlaySound(SoundID.Item14, Projectile.position);
+            if (Projectile.owner == Main.myPlayer && Projectile.ai[1] == 0)
+            {
+                Projectile.NewProjectile(Projectile.GetSource_FromThis(), Projectile.Center.X, Projectile.Center.Y - 1f, Main.rand.Next(0, 0) * 1f, Main.rand.Next(0, 0) * 1f, ModContent.ProjectileType<Fur>(), (int)(Projectile.damage * 0.1f), 0, Projectile.owner);
+            }
+
+            // Play explosion sound
+            SoundEngine.PlaySound(SoundID.Item14, Projectile.position);
+            // Smoke Dust spawn
+            for (int i = 0; i < 50; i++)
+            {
+                Dust dust = Dust.NewDustDirect(Projectile.position, Projectile.width, Projectile.height, DustID.Cloud, 0f, 0f, 100, default, 2f);
+                dust.velocity *= 0.3f;
+                dust.noGravity = true;
+            }
+
+            // Fire Dust spawn
+            for (int i = 0; i < 80; i++)
+            {
+                Dust dust = Dust.NewDustDirect(Projectile.position, Projectile.width, Projectile.height, DustID.Cloud, 0f, 0f, 100, default, 3f);
+                dust.noGravity = true;
+                dust.velocity *= 1.1f;
+                dust = Dust.NewDustDirect(Projectile.position, Projectile.width, Projectile.height, DustID.Cloud, 0f, 0f, 100, default, 2f);
+                dust.velocity *= 0.6f;
+            }
+
+
+            // reset size to normal width and height.
+            Projectile.Resize(DefaultWidthHeight, DefaultWidthHeight);
+        }
+    }
+}
